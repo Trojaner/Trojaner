@@ -6,6 +6,12 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#390](https://github.com/openmod/openmod/pull/390) in [openmod/openmod](https://github.com/openmod/openmod)
+2. ❗️ Closed issue [#386](https://github.com/openmod/openmod/issues/386) in [openmod/openmod](https://github.com/openmod/openmod)
+3. 🎉 Merged PR [#389](https://github.com/openmod/openmod/pull/389) in [openmod/openmod](https://github.com/openmod/openmod)
+4. ❗️ Opened issue [#388](https://github.com/openmod/openmod/issues/388) in [openmod/openmod](https://github.com/openmod/openmod)
+5. ❗️ Opened issue [#387](https://github.com/openmod/openmod/issues/387) in [openmod/openmod](https://github.com/openmod/openmod)
+<!--END_SECTION:activity-->
 
 ## Website / Blog
 [https://esozbek.me](https://esozbek.me)
