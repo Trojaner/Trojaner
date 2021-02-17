@@ -3,6 +3,13 @@ Hi, I'm Enes Sadık Özbek. I am a CS student at the Erciyes University and prim
 
 I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and the [OpenMod .NET Plugin Framework](https://github.com/openmod/openmod). 
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 ## Website / Blog
 [https://esozbek.me](https://esozbek.me)
 
