@@ -7,9 +7,6 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-
 ## Website / Blog
 [https://esozbek.me](https://esozbek.me)
 
