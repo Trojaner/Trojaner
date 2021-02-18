@@ -6,11 +6,11 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#392](https://github.com/openmod/openmod/issues/392) in [openmod/openmod](https://github.com/openmod/openmod)
-2. ❗️ Opened issue [#392](https://github.com/openmod/openmod/issues/392) in [openmod/openmod](https://github.com/openmod/openmod)
-3. ❗️ Closed issue [#339](https://github.com/openmod/openmod/issues/339) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🗣 Commented on [#2418](https://github.com/SmartlyDressedGames/Unturned-3.x-Community/issues/2418) in [SmartlyDressedGames/Unturned-3.x-Community](https://github.com/SmartlyDressedGames/Unturned-3.x-Community)
-5. 🎉 Merged PR [#391](https://github.com/openmod/openmod/pull/391) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🎉 Merged PR [#393](https://github.com/openmod/openmod/pull/393) in [openmod/openmod](https://github.com/openmod/openmod)
+2. ❗️ Closed issue [#392](https://github.com/openmod/openmod/issues/392) in [openmod/openmod](https://github.com/openmod/openmod)
+3. ❗️ Opened issue [#392](https://github.com/openmod/openmod/issues/392) in [openmod/openmod](https://github.com/openmod/openmod)
+4. ❗️ Closed issue [#339](https://github.com/openmod/openmod/issues/339) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🗣 Commented on [#2418](https://github.com/SmartlyDressedGames/Unturned-3.x-Community/issues/2418) in [SmartlyDressedGames/Unturned-3.x-Community](https://github.com/SmartlyDressedGames/Unturned-3.x-Community)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
