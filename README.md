@@ -6,10 +6,10 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#787](https://github.com/vuejs/vue-router-next/issues/787) in [vuejs/vue-router-next](https://github.com/vuejs/vue-router-next)
-2. ❗️ Opened issue [#398](https://github.com/openmod/openmod/issues/398) in [openmod/openmod](https://github.com/openmod/openmod)
-3. ❗️ Opened issue [#397](https://github.com/openmod/openmod/issues/397) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🗣 Commented on [#395](https://github.com/openmod/openmod/issues/395) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🗣 Commented on [#787](https://github.com/vuejs/vue-router-next/issues/787) in [vuejs/vue-router-next](https://github.com/vuejs/vue-router-next)
+2. ❗️ Opened issue [#787](https://github.com/vuejs/vue-router-next/issues/787) in [vuejs/vue-router-next](https://github.com/vuejs/vue-router-next)
+3. ❗️ Opened issue [#398](https://github.com/openmod/openmod/issues/398) in [openmod/openmod](https://github.com/openmod/openmod)
+4. ❗️ Opened issue [#397](https://github.com/openmod/openmod/issues/397) in [openmod/openmod](https://github.com/openmod/openmod)
 5. 🗣 Commented on [#395](https://github.com/openmod/openmod/issues/395) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
