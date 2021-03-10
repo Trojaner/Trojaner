@@ -6,11 +6,11 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/Kr4ken-9/NewEssentials/pull/63) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-2. ❗️ Closed issue [#50](https://github.com/Kr4ken-9/NewEssentials/issues/50) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-3. 🎉 Merged PR [#431](https://github.com/openmod/openmod/pull/431) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🗣 Commented on [#431](https://github.com/openmod/openmod/issues/431) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#433](https://github.com/openmod/openmod/pull/433) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🎉 Merged PR [#64](https://github.com/Kr4ken-9/NewEssentials/pull/64) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+2. ❗️ Closed issue [#48](https://github.com/Kr4ken-9/NewEssentials/issues/48) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+3. 🎉 Merged PR [#63](https://github.com/Kr4ken-9/NewEssentials/pull/63) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+4. ❗️ Closed issue [#50](https://github.com/Kr4ken-9/NewEssentials/issues/50) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+5. 🎉 Merged PR [#431](https://github.com/openmod/openmod/pull/431) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
