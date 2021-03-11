@@ -6,11 +6,11 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/Kr4ken-9/NewEssentials/issues/62) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-2. 🎉 Merged PR [#65](https://github.com/Kr4ken-9/NewEssentials/pull/65) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-3. ❗️ Closed issue [#53](https://github.com/Kr4ken-9/NewEssentials/issues/53) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-4. 🎉 Merged PR [#67](https://github.com/Kr4ken-9/NewEssentials/pull/67) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-5. 🎉 Merged PR [#64](https://github.com/Kr4ken-9/NewEssentials/pull/64) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+1. 🎉 Merged PR [#68](https://github.com/Kr4ken-9/NewEssentials/pull/68) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+2. 🎉 Merged PR [#69](https://github.com/Kr4ken-9/NewEssentials/pull/69) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+3. ❗️ Closed issue [#21](https://github.com/Kr4ken-9/NewEssentials/issues/21) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+4. ❗️ Closed issue [#55](https://github.com/Kr4ken-9/NewEssentials/issues/55) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+5. 🗣 Commented on [#62](https://github.com/Kr4ken-9/NewEssentials/issues/62) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
