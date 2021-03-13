@@ -6,11 +6,11 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2471](https://github.com/SmartlyDressedGames/Unturned-3.x-Community/issues/2471) in [SmartlyDressedGames/Unturned-3.x-Community](https://github.com/SmartlyDressedGames/Unturned-3.x-Community)
-2. 🎉 Merged PR [#68](https://github.com/Kr4ken-9/NewEssentials/pull/68) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-3. 🎉 Merged PR [#69](https://github.com/Kr4ken-9/NewEssentials/pull/69) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-4. ❗️ Closed issue [#21](https://github.com/Kr4ken-9/NewEssentials/issues/21) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-5. ❗️ Closed issue [#55](https://github.com/Kr4ken-9/NewEssentials/issues/55) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+1. 🗣 Commented on [#2473](https://github.com/SmartlyDressedGames/Unturned-3.x-Community/issues/2473) in [SmartlyDressedGames/Unturned-3.x-Community](https://github.com/SmartlyDressedGames/Unturned-3.x-Community)
+2. ❗️ Opened issue [#2471](https://github.com/SmartlyDressedGames/Unturned-3.x-Community/issues/2471) in [SmartlyDressedGames/Unturned-3.x-Community](https://github.com/SmartlyDressedGames/Unturned-3.x-Community)
+3. 🎉 Merged PR [#68](https://github.com/Kr4ken-9/NewEssentials/pull/68) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+4. 🎉 Merged PR [#69](https://github.com/Kr4ken-9/NewEssentials/pull/69) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+5. ❗️ Closed issue [#21](https://github.com/Kr4ken-9/NewEssentials/issues/21) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
