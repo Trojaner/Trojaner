@@ -6,11 +6,11 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#335](https://github.com/kirill-konshin/next-redux-wrapper/issues/335) in [kirill-konshin/next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
-2. 🎉 Merged PR [#447](https://github.com/openmod/openmod/pull/447) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🗣 Commented on [#447](https://github.com/openmod/openmod/issues/447) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🎉 Merged PR [#446](https://github.com/openmod/openmod/pull/446) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#444](https://github.com/openmod/openmod/pull/444) in [openmod/openmod](https://github.com/openmod/openmod)
+1. ❗️ Closed issue [#335](https://github.com/kirill-konshin/next-redux-wrapper/issues/335) in [kirill-konshin/next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
+2. ❗️ Opened issue [#335](https://github.com/kirill-konshin/next-redux-wrapper/issues/335) in [kirill-konshin/next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
+3. 🎉 Merged PR [#447](https://github.com/openmod/openmod/pull/447) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🗣 Commented on [#447](https://github.com/openmod/openmod/issues/447) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🎉 Merged PR [#446](https://github.com/openmod/openmod/pull/446) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
