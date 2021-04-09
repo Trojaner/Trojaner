@@ -6,10 +6,10 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#468](https://github.com/openmod/openmod/issues/468) in [openmod/openmod](https://github.com/openmod/openmod)
-2. ❗️ Closed issue [#462](https://github.com/openmod/openmod/issues/462) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🗣 Commented on [#462](https://github.com/openmod/openmod/issues/462) in [openmod/openmod](https://github.com/openmod/openmod)
-4. ❗️ Opened issue [#464](https://github.com/openmod/openmod/issues/464) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🎉 Merged PR [#466](https://github.com/openmod/openmod/pull/466) in [openmod/openmod](https://github.com/openmod/openmod)
+2. ❗️ Closed issue [#465](https://github.com/openmod/openmod/issues/465) in [openmod/openmod](https://github.com/openmod/openmod)
+3. ❗️ Opened issue [#468](https://github.com/openmod/openmod/issues/468) in [openmod/openmod](https://github.com/openmod/openmod)
+4. ❗️ Closed issue [#462](https://github.com/openmod/openmod/issues/462) in [openmod/openmod](https://github.com/openmod/openmod)
 5. 🗣 Commented on [#462](https://github.com/openmod/openmod/issues/462) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
