@@ -6,11 +6,11 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#493](https://github.com/openmod/openmod/pull/493) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🎉 Merged PR [#492](https://github.com/openmod/openmod/pull/492) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🎉 Merged PR [#4](https://github.com/ImperialPlugins/unturned-docker/pull/4) in [ImperialPlugins/unturned-docker](https://github.com/ImperialPlugins/unturned-docker)
-4. 🎉 Merged PR [#490](https://github.com/openmod/openmod/pull/490) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#491](https://github.com/openmod/openmod/pull/491) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🗣 Commented on [#494](https://github.com/openmod/openmod/issues/494) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 🎉 Merged PR [#493](https://github.com/openmod/openmod/pull/493) in [openmod/openmod](https://github.com/openmod/openmod)
+3. 🎉 Merged PR [#492](https://github.com/openmod/openmod/pull/492) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🎉 Merged PR [#4](https://github.com/ImperialPlugins/unturned-docker/pull/4) in [ImperialPlugins/unturned-docker](https://github.com/ImperialPlugins/unturned-docker)
+5. 🎉 Merged PR [#490](https://github.com/openmod/openmod/pull/490) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
