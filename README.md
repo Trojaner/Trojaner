@@ -6,11 +6,11 @@ I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#496](https://github.com/openmod/openmod/pull/496) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🗣 Commented on [#56](https://github.com/Facepunch/sbox-issues/issues/56) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
-3. ❗️ Opened issue [#8853](https://github.com/abpframework/abp/issues/8853) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#495](https://github.com/openmod/openmod/issues/495) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🗣 Commented on [#2580](https://github.com/SmartlyDressedGames/Unturned-3.x-Community/issues/2580) in [SmartlyDressedGames/Unturned-3.x-Community](https://github.com/SmartlyDressedGames/Unturned-3.x-Community)
+1. ❗️ Closed issue [#8853](https://github.com/abpframework/abp/issues/8853) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#8853](https://github.com/abpframework/abp/issues/8853) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#496](https://github.com/openmod/openmod/pull/496) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🗣 Commented on [#56](https://github.com/Facepunch/sbox-issues/issues/56) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
+5. ❗️ Opened issue [#8853](https://github.com/abpframework/abp/issues/8853) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
