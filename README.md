@@ -1,7 +1,7 @@
 ##  Trojaner a.k.a. esozbek
-Hi, I'm Enes Sadık Özbek. I am a CS student at the Erciyes University and primarily a .NET/Angular developer. I also do DevOps stuff like setting up and maintaining Kubernetes clusters, setting up CI/CD systems with GitHub workflows, Jenkins and TeamCity, etc.
+Hi, I'm Enes Sadık Özbek. I am a CS student at the Erciyes University and primarily a .NET (+6 years) developer. I also do frontend and DevOps stuff.
 
-I am currently working on [ImperialPlugins.com](https://imperialplugins.com) and the [OpenMod .NET Plugin Framework](https://github.com/openmod/openmod). 
+I am currently working on the [OpenMod .NET Plugin Framework](https://github.com/openmod/openmod) project in my free time. 
 
 ## :zap: Recent Activity
 
