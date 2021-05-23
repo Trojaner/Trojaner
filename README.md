@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/Facepunch/sbox-issues/issues/239) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
+1. ❗️ Closed issue [#239](https://github.com/Facepunch/sbox-issues/issues/239) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
 2. 🗣 Commented on [#239](https://github.com/Facepunch/sbox-issues/issues/239) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
-3. ❗️ Opened issue [#239](https://github.com/Facepunch/sbox-issues/issues/239) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
-4. 🎉 Merged PR [#512](https://github.com/openmod/openmod/pull/512) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🗣 Commented on [#182](https://github.com/Facepunch/sbox-issues/issues/182) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
+3. 🗣 Commented on [#239](https://github.com/Facepunch/sbox-issues/issues/239) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
+4. 🗣 Commented on [#239](https://github.com/Facepunch/sbox-issues/issues/239) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
+5. ❗️ Opened issue [#239](https://github.com/Facepunch/sbox-issues/issues/239) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
