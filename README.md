@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#522](https://github.com/openmod/openmod/pull/522) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🗣 Commented on [#132](https://github.com/dotnet-foundation/projects/issues/132) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
+1. 🗣 Commented on [#11](https://github.com/ImperialPlugins/steam-openid-connect-provider/issues/11) in [ImperialPlugins/steam-openid-connect-provider](https://github.com/ImperialPlugins/steam-openid-connect-provider)
+2. 🎉 Merged PR [#522](https://github.com/openmod/openmod/pull/522) in [openmod/openmod](https://github.com/openmod/openmod)
 3. 🗣 Commented on [#132](https://github.com/dotnet-foundation/projects/issues/132) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
 4. 🗣 Commented on [#132](https://github.com/dotnet-foundation/projects/issues/132) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
-5. 🎉 Merged PR [#100](https://github.com/Kr4ken-9/NewEssentials/pull/100) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+5. 🗣 Commented on [#132](https://github.com/dotnet-foundation/projects/issues/132) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
