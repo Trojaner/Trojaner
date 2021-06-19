@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/dotnet-foundation/projects/issues/132) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
-2. 🗣 Commented on [#160](https://github.com/Facepunch/sbox-issues/issues/160) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
-3. 🗣 Commented on [#525](https://github.com/openmod/openmod/issues/525) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🎉 Merged PR [#528](https://github.com/openmod/openmod/pull/528) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🗣 Commented on [#333](https://github.com/Facepunch/sbox-issues/issues/333) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
+1. 🎉 Merged PR [#530](https://github.com/openmod/openmod/pull/530) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 🗣 Commented on [#132](https://github.com/dotnet-foundation/projects/issues/132) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
+3. 🗣 Commented on [#160](https://github.com/Facepunch/sbox-issues/issues/160) in [Facepunch/sbox-issues](https://github.com/Facepunch/sbox-issues)
+4. 🗣 Commented on [#525](https://github.com/openmod/openmod/issues/525) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🎉 Merged PR [#528](https://github.com/openmod/openmod/pull/528) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
