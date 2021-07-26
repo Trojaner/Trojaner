@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#549](https://github.com/openmod/openmod/issues/549) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🎉 Merged PR [#109](https://github.com/Kr4ken-9/NewEssentials/pull/109) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
-3. 🗣 Commented on [#548](https://github.com/openmod/openmod/issues/548) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🎉 Merged PR [#546](https://github.com/openmod/openmod/pull/546) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#544](https://github.com/openmod/openmod/pull/544) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🎉 Merged PR [#114](https://github.com/Kr4ken-9/NewEssentials/pull/114) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+2. ❗️ Closed issue [#110](https://github.com/Kr4ken-9/NewEssentials/issues/110) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+3. 🗣 Commented on [#549](https://github.com/openmod/openmod/issues/549) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🎉 Merged PR [#109](https://github.com/Kr4ken-9/NewEssentials/pull/109) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+5. 🗣 Commented on [#548](https://github.com/openmod/openmod/issues/548) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
