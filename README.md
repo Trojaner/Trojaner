@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#590](https://github.com/openmod/openmod/pull/590) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🎉 Merged PR [#591](https://github.com/openmod/openmod/pull/591) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🎉 Merged PR [#588](https://github.com/openmod/openmod/pull/588) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🎉 Merged PR [#587](https://github.com/openmod/openmod/pull/587) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#128](https://github.com/Kr4ken-9/NewEssentials/pull/128) in [Kr4ken-9/NewEssentials](https://github.com/Kr4ken-9/NewEssentials)
+1. ❗️ Opened issue [#2](https://github.com/pavel-agarkov/RemoteDebugLauncherExtension/issues/2) in [pavel-agarkov/RemoteDebugLauncherExtension](https://github.com/pavel-agarkov/RemoteDebugLauncherExtension)
+2. 🎉 Merged PR [#590](https://github.com/openmod/openmod/pull/590) in [openmod/openmod](https://github.com/openmod/openmod)
+3. 🎉 Merged PR [#591](https://github.com/openmod/openmod/pull/591) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🎉 Merged PR [#588](https://github.com/openmod/openmod/pull/588) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🎉 Merged PR [#587](https://github.com/openmod/openmod/pull/587) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
