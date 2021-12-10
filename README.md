@@ -1,5 +1,5 @@
 ##  Trojaner a.k.a. esozbek
-Hi, I'm Enes Sadık Özbek. I am a CS student at the Erciyes University and primarily a .NET (+6 years) developer. I also do frontend and DevOps stuff.
+Hi, I'm Enes Sadık Özbek. I am a CS student at the Erciyes University and primarily a .NET developer. I also do frontend and DevOps stuff.
 
 I am currently working on the [OpenMod .NET Plugin Framework](https://github.com/openmod/openmod) project in my free time. 
 
