@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#601](https://github.com/openmod/openmod/pull/601) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🎉 Merged PR [#600](https://github.com/openmod/openmod/pull/600) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🎉 Merged PR [#599](https://github.com/openmod/openmod/pull/599) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🎉 Merged PR [#598](https://github.com/openmod/openmod/pull/598) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#597](https://github.com/openmod/openmod/pull/597) in [openmod/openmod](https://github.com/openmod/openmod)
+1. ❗️ Closed issue [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
+2. 🗣 Commented on [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
+3. ❗️ Opened issue [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
+4. 🎉 Merged PR [#601](https://github.com/openmod/openmod/pull/601) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🎉 Merged PR [#600](https://github.com/openmod/openmod/pull/600) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
