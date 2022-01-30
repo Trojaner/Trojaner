@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
-2. 🗣 Commented on [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
-3. ❗️ Opened issue [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
-4. 🎉 Merged PR [#601](https://github.com/openmod/openmod/pull/601) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#600](https://github.com/openmod/openmod/pull/600) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🎉 Merged PR [#602](https://github.com/openmod/openmod/pull/602) in [openmod/openmod](https://github.com/openmod/openmod)
+2. ❗️ Closed issue [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
+3. 🗣 Commented on [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
+4. ❗️ Opened issue [#777](https://github.com/Nethereum/Nethereum/issues/777) in [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum)
+5. 🎉 Merged PR [#601](https://github.com/openmod/openmod/pull/601) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
