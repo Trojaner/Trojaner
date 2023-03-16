@@ -19,4 +19,3 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## Contact
 - **Email**: es.ozbek (at) outlook (dot) com
 - **LinkedIn**: [/in/esozbek](https://linkedin.com/in/esozbek)
-- **Discord**: Trojaner#6818
