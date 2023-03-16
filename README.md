@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1481](https://github.com/FastLED/FastLED/issues/1481) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
-2. 🎉 Merged PR [#13](https://github.com/openmod/OpenMod.Economy/pull/13) in [openmod/OpenMod.Economy](https://github.com/openmod/OpenMod.Economy)
-3. 💪 Opened PR [#155](https://github.com/nikolas/github-drama/pull/155) in [nikolas/github-drama](https://github.com/nikolas/github-drama)
-4. 🗣 Commented on [#22](https://github.com/byo-software/steam-openid-connect-provider/issues/22) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
-5. 🗣 Commented on [#22](https://github.com/byo-software/steam-openid-connect-provider/issues/22) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+1. ❗️ Opened issue [#2](https://github.com/Trojaner/DiscordFS/issues/2) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+2. ❗️ Opened issue [#1](https://github.com/Trojaner/DiscordFS/issues/1) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+3. 🗣 Commented on [#1481](https://github.com/FastLED/FastLED/issues/1481) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
+4. 🎉 Merged PR [#13](https://github.com/openmod/OpenMod.Economy/pull/13) in [openmod/OpenMod.Economy](https://github.com/openmod/OpenMod.Economy)
+5. 💪 Opened PR [#155](https://github.com/nikolas/github-drama/pull/155) in [nikolas/github-drama](https://github.com/nikolas/github-drama)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
