@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/Trojaner/DiscordFS/issues/10) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-2. ❗️ Closed issue [#4](https://github.com/Trojaner/DiscordFS/issues/4) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-3. ❗️ Closed issue [#5](https://github.com/Trojaner/DiscordFS/issues/5) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-4. ❗️ Opened issue [#10](https://github.com/Trojaner/DiscordFS/issues/10) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-5. ❗️ Opened issue [#9](https://github.com/Trojaner/DiscordFS/issues/9) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+1. ❗️ Opened issue [#13](https://github.com/Trojaner/DiscordFS/issues/13) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+2. ❗️ Opened issue [#12](https://github.com/Trojaner/DiscordFS/issues/12) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+3. ❗️ Closed issue [#7](https://github.com/Trojaner/DiscordFS/issues/7) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+4. ❗️ Opened issue [#11](https://github.com/Trojaner/DiscordFS/issues/11) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+5. ❗️ Closed issue [#10](https://github.com/Trojaner/DiscordFS/issues/10) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
