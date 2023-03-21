@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/Trojaner/DiscordFS/issues/13) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-2. ❗️ Opened issue [#12](https://github.com/Trojaner/DiscordFS/issues/12) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-3. ❗️ Closed issue [#7](https://github.com/Trojaner/DiscordFS/issues/7) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-4. ❗️ Opened issue [#11](https://github.com/Trojaner/DiscordFS/issues/11) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
-5. ❗️ Closed issue [#10](https://github.com/Trojaner/DiscordFS/issues/10) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+1. 🎉 Merged PR [#16](https://github.com/Trojaner/DiscordFS/pull/16) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
+2. ❗️ Closed issue [#660](https://github.com/openmod/openmod/issues/660) in [openmod/openmod](https://github.com/openmod/openmod)
+3. ❗️ Closed issue [#658](https://github.com/openmod/openmod/issues/658) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🎉 Merged PR [#666](https://github.com/openmod/openmod/pull/666) in [openmod/openmod](https://github.com/openmod/openmod)
+5. ❗️ Opened issue [#13](https://github.com/Trojaner/DiscordFS/issues/13) in [Trojaner/DiscordFS](https://github.com/Trojaner/DiscordFS)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
