@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#812](https://github.com/bmaltais/kohya_ss/issues/812) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
-2. 🗣 Commented on [#764](https://github.com/bmaltais/kohya_ss/issues/764) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
-3. 🗣 Commented on [#758](https://github.com/bmaltais/kohya_ss/issues/758) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
-4. 🗣 Commented on [#751](https://github.com/bmaltais/kohya_ss/issues/751) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
-5. 💪 Opened PR [#752](https://github.com/bmaltais/kohya_ss/pull/752) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
+1. 🗣 Commented on [#1036](https://github.com/vladmandic/automatic/issues/1036) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
+2. 🗣 Commented on [#1039](https://github.com/vladmandic/automatic/issues/1039) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
+3. ❗️ Opened issue [#1038](https://github.com/vladmandic/automatic/issues/1038) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
+4. ❗️ Closed issue [#1034](https://github.com/vladmandic/automatic/issues/1034) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
+5. ❗️ Opened issue [#1036](https://github.com/vladmandic/automatic/issues/1036) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
