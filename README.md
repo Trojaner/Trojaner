@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1236](https://github.com/bmaltais/kohya_ss/issues/1236#issuecomment-1671997764) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
-2. 💪 Opened PR [#1365](https://github.com/bmaltais/kohya_ss/pull/1365) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
-3. 🔒 Closed issue [#732](https://github.com/openmod/openmod/issues/732) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🗣 Commented on [#732](https://github.com/openmod/openmod/issues/732#issuecomment-1666467105) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🔒 Closed issue [#730](https://github.com/openmod/openmod/issues/730) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🎉 Merged PR [#735](https://github.com/openmod/openmod/pull/735) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 🗣 Commented on [#1236](https://github.com/bmaltais/kohya_ss/issues/1236#issuecomment-1671997764) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
+3. 💪 Opened PR [#1365](https://github.com/bmaltais/kohya_ss/pull/1365) in [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss)
+4. 🔒 Closed issue [#732](https://github.com/openmod/openmod/issues/732) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🗣 Commented on [#732](https://github.com/openmod/openmod/issues/732#issuecomment-1666467105) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
