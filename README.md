@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#574](https://github.com/openmod/openmod/issues/574) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🎉 Merged PR [#749](https://github.com/openmod/openmod/pull/749) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🎉 Merged PR [#744](https://github.com/openmod/openmod/pull/744) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🔒 Closed issue [#745](https://github.com/openmod/openmod/issues/745) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#746](https://github.com/openmod/openmod/pull/746) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🔒 Closed issue [#16](https://github.com/byo-software/steam-openid-connect-provider/issues/16) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+2. 🔒 Closed issue [#17](https://github.com/byo-software/steam-openid-connect-provider/issues/17) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+3. 🔒 Closed issue [#574](https://github.com/openmod/openmod/issues/574) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🎉 Merged PR [#749](https://github.com/openmod/openmod/pull/749) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🎉 Merged PR [#744](https://github.com/openmod/openmod/pull/744) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
