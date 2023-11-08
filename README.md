@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#789](https://github.com/openmod/openmod/pull/789) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 💪 Opened PR [#151](https://github.com/glucauze/sd-webui-faceswaplab/pull/151) in [glucauze/sd-webui-faceswaplab](https://github.com/glucauze/sd-webui-faceswaplab)
-3. 🎉 Merged PR [#788](https://github.com/openmod/openmod/pull/788) in [openmod/openmod](https://github.com/openmod/openmod)
-4. ❗ Opened issue [#2456](https://github.com/vladmandic/automatic/issues/2456) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
-5. 🗣 Commented on [#788](https://github.com/openmod/openmod/pull/788#issuecomment-1799132793) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🎉 Merged PR [#790](https://github.com/openmod/openmod/pull/790) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 🎉 Merged PR [#789](https://github.com/openmod/openmod/pull/789) in [openmod/openmod](https://github.com/openmod/openmod)
+3. 💪 Opened PR [#151](https://github.com/glucauze/sd-webui-faceswaplab/pull/151) in [glucauze/sd-webui-faceswaplab](https://github.com/glucauze/sd-webui-faceswaplab)
+4. 🎉 Merged PR [#788](https://github.com/openmod/openmod/pull/788) in [openmod/openmod](https://github.com/openmod/openmod)
+5. ❗ Opened issue [#2456](https://github.com/vladmandic/automatic/issues/2456) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
