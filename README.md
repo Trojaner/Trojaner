@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/openmod/OpenMod.Installer.RocketMod/pull/9) in [openmod/OpenMod.Installer.RocketMod](https://github.com/openmod/OpenMod.Installer.RocketMod)
-2. 🎉 Merged PR [#8](https://github.com/openmod/OpenMod.Installer.RocketMod/pull/8) in [openmod/OpenMod.Installer.RocketMod](https://github.com/openmod/OpenMod.Installer.RocketMod)
-3. 🎉 Merged PR [#799](https://github.com/openmod/openmod/pull/799) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🔒 Closed issue [#697](https://github.com/openmod/openmod/issues/697) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#774](https://github.com/openmod/openmod/pull/774) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🗣 Commented on [#3](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/3#issuecomment-1853787838) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+2. 🔒 Closed issue [#3](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/3) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+3. 🗣 Commented on [#4](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/4#issuecomment-1853786854) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+4. 🔒 Closed issue [#4](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/4) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+5. 🗣 Commented on [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6#issuecomment-1853785723) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
