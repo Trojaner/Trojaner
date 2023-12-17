@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6#issuecomment-1859285461) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-2. 🔒 Closed issue [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-3. ❗ Opened issue [#266](https://github.com/Gourieff/sd-webui-reactor/issues/266) in [Gourieff/sd-webui-reactor](https://github.com/Gourieff/sd-webui-reactor)
-4. 🚀 Published release [Release v1.1](https://github.com/Trojaner/text-generation-webui-stable_diffusion/releases/tag/1.1) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-5. 🗣 Commented on [#7](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/7#issuecomment-1857442020) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+1. 🔒 Closed issue [#7](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/7) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+2. 🗣 Commented on [#7](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/7#issuecomment-1859285600) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+3. 🗣 Commented on [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6#issuecomment-1859285461) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+4. 🔒 Closed issue [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+5. ❗ Opened issue [#266](https://github.com/Gourieff/sd-webui-reactor/issues/266) in [Gourieff/sd-webui-reactor](https://github.com/Gourieff/sd-webui-reactor)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
