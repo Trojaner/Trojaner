@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/7) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-2. 🗣 Commented on [#7](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/7#issuecomment-1859285600) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-3. 🗣 Commented on [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6#issuecomment-1859285461) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-4. 🔒 Closed issue [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-5. ❗ Opened issue [#266](https://github.com/Gourieff/sd-webui-reactor/issues/266) in [Gourieff/sd-webui-reactor](https://github.com/Gourieff/sd-webui-reactor)
+1. 🗣 Commented on [#2633](https://github.com/vladmandic/automatic/issues/2633#issuecomment-1860317434) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
+2. 🔒 Closed issue [#7](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/7) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+3. 🗣 Commented on [#7](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/7#issuecomment-1859285600) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+4. 🗣 Commented on [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6#issuecomment-1859285461) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+5. 🔒 Closed issue [#6](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/6) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
