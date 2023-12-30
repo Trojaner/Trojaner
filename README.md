@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/9) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-2. 🔒 Closed issue [#8](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/8) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-3. 🗣 Commented on [#9](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/9#issuecomment-1870421930) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-4. 🗣 Commented on [#5034](https://github.com/oobabooga/text-generation-webui/issues/5034#issuecomment-1869051152) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-5. 🗣 Commented on [#8](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/8#issuecomment-1869044579) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+1. 🚀 Published release [1.3](https://github.com/Trojaner/text-generation-webui-stable_diffusion/releases/tag/1.3) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+2. 🔒 Closed issue [#9](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/9) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+3. 🔒 Closed issue [#8](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/8) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+4. 🗣 Commented on [#9](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/9#issuecomment-1870421930) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+5. 🗣 Commented on [#5034](https://github.com/oobabooga/text-generation-webui/issues/5034#issuecomment-1869051152) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
