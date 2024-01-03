@@ -6,11 +6,11 @@ I am currently working on the [OpenMod .NET Plugin Framework](https://github.com
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/Gourieff/sd-webui-reactor/issues/266#issuecomment-1872934373) in [Gourieff/sd-webui-reactor](https://github.com/Gourieff/sd-webui-reactor)
-2. ❗ Opened issue [#5137](https://github.com/oobabooga/text-generation-webui/issues/5137) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-3. ❗ Opened issue [#5136](https://github.com/oobabooga/text-generation-webui/issues/5136) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-4. ❗ Opened issue [#5135](https://github.com/oobabooga/text-generation-webui/issues/5135) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-5. 🔒 Closed issue [#10](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/10) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+1. 🗣 Commented on [#11](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/11#issuecomment-1876037354) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+2. 🔓 Reopened issue [#11](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/11) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+3. 🗣 Commented on [#12](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/12#issuecomment-1876032232) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+4. 🗣 Commented on [#13](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/13#issuecomment-1876028639) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+5. 🗣 Commented on [#2671](https://github.com/vladmandic/automatic/pull/2671#issuecomment-1876020645) in [vladmandic/automatic](https://github.com/vladmandic/automatic)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
