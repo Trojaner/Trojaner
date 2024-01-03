@@ -1,7 +1,8 @@
 ##  Trojaner a.k.a. esozbek
-Hi, I'm Enes Sadık Özbek. I am primarily a React & .NET developer. I also occasionally do DevOps stuff.
+Hi, I'm Enes Sadık Özbek. I am primarily a React & .NET developer.  
+I also occasionally do DevOps stuff and contribute to various generative AI projects in my free time.
 
-I am currently working on the [OpenMod .NET Plugin Framework](https://github.com/openmod/openmod) project in my free time. 
+Currently working as Team Lead Backend Developer at [Hubtic](https://hubtic.com/).
 
 ## :zap: Recent Activity
 
