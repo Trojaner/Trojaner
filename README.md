@@ -2,7 +2,7 @@
 Hi, I'm Enes Sadık Özbek. I am primarily a React & .NET developer.  
 I also occasionally do DevOps stuff and contribute to various generative AI projects in my free time.
 
-Currently working as Team Lead Backend Developer at [Hubtic](https://hubtic.com/).
+Currently working as Team Lead Backend Developer at [Nuvolog](https://nuvolog.com/).
 
 ## :zap: Recent Activity
 
