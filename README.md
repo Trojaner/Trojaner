@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#809](https://github.com/openmod/openmod/issues/809) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🎉 Merged PR [#810](https://github.com/openmod/openmod/pull/810) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🗣 Commented on [#84](https://github.com/UnturnedStore/UnturnedStore/pull/84#issuecomment-1983704902) in [UnturnedStore/UnturnedStore](https://github.com/UnturnedStore/UnturnedStore)
-4. 🗣 Commented on [#84](https://github.com/UnturnedStore/UnturnedStore/pull/84#issuecomment-1983700694) in [UnturnedStore/UnturnedStore](https://github.com/UnturnedStore/UnturnedStore)
-5. 🗣 Commented on [#84](https://github.com/UnturnedStore/UnturnedStore/pull/84#issuecomment-1983681965) in [UnturnedStore/UnturnedStore](https://github.com/UnturnedStore/UnturnedStore)
+1. ❗ Opened issue [#9](https://github.com/Zhen-Dong/Magic-Me/issues/9) in [Zhen-Dong/Magic-Me](https://github.com/Zhen-Dong/Magic-Me)
+2. 🔒 Closed issue [#809](https://github.com/openmod/openmod/issues/809) in [openmod/openmod](https://github.com/openmod/openmod)
+3. 🎉 Merged PR [#810](https://github.com/openmod/openmod/pull/810) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🗣 Commented on [#84](https://github.com/UnturnedStore/UnturnedStore/pull/84#issuecomment-1983704902) in [UnturnedStore/UnturnedStore](https://github.com/UnturnedStore/UnturnedStore)
+5. 🗣 Commented on [#84](https://github.com/UnturnedStore/UnturnedStore/pull/84#issuecomment-1983700694) in [UnturnedStore/UnturnedStore](https://github.com/UnturnedStore/UnturnedStore)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
