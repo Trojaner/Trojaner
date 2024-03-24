@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Zhen-Dong/Magic-Me/issues/9) in [Zhen-Dong/Magic-Me](https://github.com/Zhen-Dong/Magic-Me)
-2. 🔒 Closed issue [#809](https://github.com/openmod/openmod/issues/809) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🎉 Merged PR [#810](https://github.com/openmod/openmod/pull/810) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🗣 Commented on [#84](https://github.com/UnturnedStore/UnturnedStore/pull/84#issuecomment-1983704902) in [UnturnedStore/UnturnedStore](https://github.com/UnturnedStore/UnturnedStore)
-5. 🗣 Commented on [#84](https://github.com/UnturnedStore/UnturnedStore/pull/84#issuecomment-1983700694) in [UnturnedStore/UnturnedStore](https://github.com/UnturnedStore/UnturnedStore)
+1. 🗣 Commented on [#1139](https://github.com/kohya-ss/sd-scripts/pull/1139#issuecomment-2016910615) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
+2. 🗣 Commented on [#1207](https://github.com/kohya-ss/sd-scripts/pull/1207#issuecomment-2016910356) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
+3. ❗ Opened issue [#9](https://github.com/Zhen-Dong/Magic-Me/issues/9) in [Zhen-Dong/Magic-Me](https://github.com/Zhen-Dong/Magic-Me)
+4. 🔒 Closed issue [#809](https://github.com/openmod/openmod/issues/809) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🎉 Merged PR [#810](https://github.com/openmod/openmod/pull/810) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
