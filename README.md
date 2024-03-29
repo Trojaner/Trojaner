@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1208](https://github.com/kohya-ss/sd-scripts/issues/1208) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
-2. 🗣 Commented on [#1207](https://github.com/kohya-ss/sd-scripts/pull/1207#issuecomment-2016914548) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
-3. 🗣 Commented on [#1139](https://github.com/kohya-ss/sd-scripts/pull/1139#issuecomment-2016910615) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
-4. 🗣 Commented on [#1207](https://github.com/kohya-ss/sd-scripts/pull/1207#issuecomment-2016910356) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
-5. ❗ Opened issue [#9](https://github.com/Zhen-Dong/Magic-Me/issues/9) in [Zhen-Dong/Magic-Me](https://github.com/Zhen-Dong/Magic-Me)
+1. 🗣 Commented on [#24](https://github.com/byo-software/steam-openid-connect-provider/issues/24#issuecomment-2027102162) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+2. ❗ Opened issue [#1208](https://github.com/kohya-ss/sd-scripts/issues/1208) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
+3. 🗣 Commented on [#1207](https://github.com/kohya-ss/sd-scripts/pull/1207#issuecomment-2016914548) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
+4. 🗣 Commented on [#1139](https://github.com/kohya-ss/sd-scripts/pull/1139#issuecomment-2016910615) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
+5. 🗣 Commented on [#1207](https://github.com/kohya-ss/sd-scripts/pull/1207#issuecomment-2016910356) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
