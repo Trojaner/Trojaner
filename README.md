@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1469](https://github.com/opentofu/opentofu/issues/1469) in [opentofu/opentofu](https://github.com/opentofu/opentofu)
-2. ❗ Opened issue [#1801](https://github.com/zhongyang219/TrafficMonitor/issues/1801) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-3. 🗣 Commented on [#24](https://github.com/byo-software/steam-openid-connect-provider/issues/24#issuecomment-2027102162) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
-4. ❗ Opened issue [#1208](https://github.com/kohya-ss/sd-scripts/issues/1208) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
-5. 🗣 Commented on [#1207](https://github.com/kohya-ss/sd-scripts/pull/1207#issuecomment-2016914548) in [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
+1. 🗣 Commented on [#1469](https://github.com/opentofu/opentofu/issues/1469#issuecomment-2040440239) in [opentofu/opentofu](https://github.com/opentofu/opentofu)
+2. 🔒 Closed issue [#1469](https://github.com/opentofu/opentofu/issues/1469) in [opentofu/opentofu](https://github.com/opentofu/opentofu)
+3. ❗ Opened issue [#1469](https://github.com/opentofu/opentofu/issues/1469) in [opentofu/opentofu](https://github.com/opentofu/opentofu)
+4. ❗ Opened issue [#1801](https://github.com/zhongyang219/TrafficMonitor/issues/1801) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+5. 🗣 Commented on [#24](https://github.com/byo-software/steam-openid-connect-provider/issues/24#issuecomment-2027102162) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
