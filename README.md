@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/openmod/openmod/issues/184#issuecomment-2050037196) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🗣 Commented on [#1469](https://github.com/opentofu/opentofu/issues/1469#issuecomment-2040440239) in [opentofu/opentofu](https://github.com/opentofu/opentofu)
-3. 🔒 Closed issue [#1469](https://github.com/opentofu/opentofu/issues/1469) in [opentofu/opentofu](https://github.com/opentofu/opentofu)
-4. ❗ Opened issue [#1469](https://github.com/opentofu/opentofu/issues/1469) in [opentofu/opentofu](https://github.com/opentofu/opentofu)
-5. ❗ Opened issue [#1801](https://github.com/zhongyang219/TrafficMonitor/issues/1801) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+1. 🗣 Commented on [#15](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/15#issuecomment-2062277824) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+2. 🔒 Closed issue [#15](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/15) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+3. 🗣 Commented on [#12](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/12#issuecomment-2062272248) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+4. 🔒 Closed issue [#12](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/12) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+5. 🔒 Closed issue [#16](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/16) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
