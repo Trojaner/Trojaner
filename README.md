@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7759](https://github.com/huggingface/diffusers/issues/7759) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
-2. 🗣 Commented on [#5881](https://github.com/oobabooga/text-generation-webui/issues/5881#issuecomment-2067130340) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-3. 🔒 Closed issue [#18](https://github.com/byo-software/steam-openid-connect-provider/issues/18) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
-4. 🔒 Closed issue [#24](https://github.com/byo-software/steam-openid-connect-provider/issues/24) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
-5. 🗣 Commented on [#15](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/15#issuecomment-2062277824) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+1. 🗣 Commented on [#7759](https://github.com/huggingface/diffusers/issues/7759#issuecomment-2073860856) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+2. ❗ Opened issue [#7759](https://github.com/huggingface/diffusers/issues/7759) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+3. 🗣 Commented on [#5881](https://github.com/oobabooga/text-generation-webui/issues/5881#issuecomment-2067130340) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+4. 🔒 Closed issue [#18](https://github.com/byo-software/steam-openid-connect-provider/issues/18) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+5. 🔒 Closed issue [#24](https://github.com/byo-software/steam-openid-connect-provider/issues/24) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
