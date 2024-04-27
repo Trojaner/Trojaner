@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7759](https://github.com/huggingface/diffusers/issues/7759#issuecomment-2074203573) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
-2. 🗣 Commented on [#7759](https://github.com/huggingface/diffusers/issues/7759#issuecomment-2073860856) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
-3. ❗ Opened issue [#7759](https://github.com/huggingface/diffusers/issues/7759) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
-4. 🗣 Commented on [#5881](https://github.com/oobabooga/text-generation-webui/issues/5881#issuecomment-2067130340) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-5. 🔒 Closed issue [#18](https://github.com/byo-software/steam-openid-connect-provider/issues/18) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+1. 🗣 Commented on [#812](https://github.com/openmod/openmod/pull/812#issuecomment-2081165737) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 🎉 Merged PR [#817](https://github.com/openmod/openmod/pull/817) in [openmod/openmod](https://github.com/openmod/openmod)
+3. 🗣 Commented on [#7759](https://github.com/huggingface/diffusers/issues/7759#issuecomment-2074203573) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+4. 🗣 Commented on [#7759](https://github.com/huggingface/diffusers/issues/7759#issuecomment-2073860856) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+5. ❗ Opened issue [#7759](https://github.com/huggingface/diffusers/issues/7759) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
