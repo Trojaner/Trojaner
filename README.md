@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/18#issuecomment-2119040427) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-2. 🗣 Commented on [#18](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/18#issuecomment-2119036015) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-3. 🚀 Published release [1.7.0](https://github.com/Trojaner/text-generation-webui-stable_diffusion/releases/tag/1.7.0) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-4. 🗣 Commented on [#17](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/17#issuecomment-2119025331) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
-5. 🔒 Closed issue [#17](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/17) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
+1. 🎉 Merged PR [#812](https://github.com/openmod/openmod/pull/812) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 🎉 Merged PR [#820](https://github.com/openmod/openmod/pull/820) in [openmod/openmod](https://github.com/openmod/openmod)
+3. 🎉 Merged PR [#819](https://github.com/openmod/openmod/pull/819) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🎉 Merged PR [#821](https://github.com/openmod/openmod/pull/821) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🗣 Commented on [#18](https://github.com/Trojaner/text-generation-webui-stable_diffusion/issues/18#issuecomment-2119040427) in [Trojaner/text-generation-webui-stable_diffusion](https://github.com/Trojaner/text-generation-webui-stable_diffusion)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
