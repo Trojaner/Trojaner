@@ -7,11 +7,11 @@ Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/jags111/ComfyUI_Jags_Audiotools/issues/15) in [jags111/ComfyUI_Jags_Audiotools](https://github.com/jags111/ComfyUI_Jags_Audiotools)
-2. ❗ Opened issue [#6](https://github.com/pollockjj/ComfyUI-MultiGPU/issues/6) in [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU)
-3. 🗣 Commented on [#3](https://github.com/pollockjj/ComfyUI-MultiGPU/issues/3#issuecomment-2566566492) in [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU)
-4. 🗣 Commented on [#4](https://github.com/pollockjj/ComfyUI-MultiGPU/issues/4#issuecomment-2565968294) in [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU)
-5. 🗣 Commented on [#3](https://github.com/pollockjj/ComfyUI-MultiGPU/issues/3#issuecomment-2565959814) in [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU)
+1. 🔓 Reopened issue [#15](https://github.com/jags111/ComfyUI_Jags_Audiotools/issues/15) in [jags111/ComfyUI_Jags_Audiotools](https://github.com/jags111/ComfyUI_Jags_Audiotools)
+2. 🗣 Commented on [#15](https://github.com/jags111/ComfyUI_Jags_Audiotools/issues/15#issuecomment-2566745551) in [jags111/ComfyUI_Jags_Audiotools](https://github.com/jags111/ComfyUI_Jags_Audiotools)
+3. 🔒 Closed issue [#15](https://github.com/jags111/ComfyUI_Jags_Audiotools/issues/15) in [jags111/ComfyUI_Jags_Audiotools](https://github.com/jags111/ComfyUI_Jags_Audiotools)
+4. 🗣 Commented on [#13](https://github.com/christian-byrne/audio-separation-nodes-comfyui/pull/13#issuecomment-2566739835) in [christian-byrne/audio-separation-nodes-comfyui](https://github.com/christian-byrne/audio-separation-nodes-comfyui)
+5. ❗ Opened issue [#15](https://github.com/jags111/ComfyUI_Jags_Audiotools/issues/15) in [jags111/ComfyUI_Jags_Audiotools](https://github.com/jags111/ComfyUI_Jags_Audiotools)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
