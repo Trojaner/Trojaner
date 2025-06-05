@@ -2,8 +2,6 @@
 Hi, I'm Enes Sadık Özbek. I am primarily a React & .NET developer.  
 I also occasionally do DevOps stuff and contribute to various generative AI projects in my free time.
 
-Currently working as Senior Backend Developer at [Nuvolog](https://nuvolog.com/).
-
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
