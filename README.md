@@ -5,7 +5,7 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#847](https://github.com/openmod/openmod/issues/847#issuecomment-2849329563) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 💪 Opened PR [#3970](https://github.com/vladmandic/sdnext/pull/3970) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
 2. 💪 Opened PR [#8](https://github.com/ApplY3D/mi-home-toolkit/pull/8) in [ApplY3D/mi-home-toolkit](https://github.com/ApplY3D/mi-home-toolkit)
 3. ❗ Opened issue [#6860](https://github.com/oobabooga/text-generation-webui/issues/6860) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 4. ❗ Opened issue [#14](https://github.com/huggingface/image_gen_aux/issues/14) in [huggingface/image_gen_aux](https://github.com/huggingface/image_gen_aux)
