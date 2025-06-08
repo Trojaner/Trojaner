@@ -5,9 +5,9 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1738](https://github.com/civitai/civitai/issues/1738) in [civitai/civitai](https://github.com/civitai/civitai)
-2. 💪 Opened PR [#3970](https://github.com/vladmandic/sdnext/pull/3970) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-3. ❗ Opened issue [#6860](https://github.com/oobabooga/text-generation-webui/issues/6860) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+1. 🗣 Commented on [#3970](https://github.com/vladmandic/sdnext/pull/3970#issuecomment-2954138892) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+2. ❗ Opened issue [#1738](https://github.com/civitai/civitai/issues/1738) in [civitai/civitai](https://github.com/civitai/civitai)
+3. 💪 Opened PR [#3970](https://github.com/vladmandic/sdnext/pull/3970) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
 4. ❗ Opened issue [#14](https://github.com/huggingface/image_gen_aux/issues/14) in [huggingface/image_gen_aux](https://github.com/huggingface/image_gen_aux)
 5. 🗣 Commented on [#6828](https://github.com/oobabooga/text-generation-webui/issues/6828#issuecomment-2783978548) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 <!--END_SECTION:activity-->
