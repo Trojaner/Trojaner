@@ -5,11 +5,11 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3992](https://github.com/vladmandic/sdnext/pull/3992) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-2. 🗣 Commented on [#11725](https://github.com/huggingface/diffusers/pull/11725#issuecomment-2982173814) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
-3. 🗣 Commented on [#3980](https://github.com/vladmandic/sdnext/issues/3980#issuecomment-2979281897) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-4. 🗣 Commented on [#3980](https://github.com/vladmandic/sdnext/issues/3980#issuecomment-2979234939) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-5. ❗ Opened issue [#7143](https://github.com/openobserve/openobserve/issues/7143) in [openobserve/openobserve](https://github.com/openobserve/openobserve)
+1. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-2982964404) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+2. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-2982961425) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+3. 💪 Opened PR [#3992](https://github.com/vladmandic/sdnext/pull/3992) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+4. 🗣 Commented on [#11725](https://github.com/huggingface/diffusers/pull/11725#issuecomment-2982173814) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+5. 🗣 Commented on [#3980](https://github.com/vladmandic/sdnext/issues/3980#issuecomment-2979281897) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
