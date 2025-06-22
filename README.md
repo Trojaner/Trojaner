@@ -5,11 +5,11 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11725](https://github.com/huggingface/diffusers/pull/11725#issuecomment-2985411940) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
-2. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-2982964404) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-3. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-2982961425) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-4. 💪 Opened PR [#3992](https://github.com/vladmandic/sdnext/pull/3992) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-5. 🗣 Commented on [#11725](https://github.com/huggingface/diffusers/pull/11725#issuecomment-2982173814) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+1. 🗣 Commented on [#4783](https://github.com/dotnet/EntityFramework.Docs/issues/4783#issuecomment-2994281291) in [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs)
+2. 🗣 Commented on [#4783](https://github.com/dotnet/EntityFramework.Docs/issues/4783#issuecomment-2994280598) in [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs)
+3. 🗣 Commented on [#11725](https://github.com/huggingface/diffusers/pull/11725#issuecomment-2985411940) in [huggingface/diffusers](https://github.com/huggingface/diffusers)
+4. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-2982964404) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+5. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-2982961425) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
