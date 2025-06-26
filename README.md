@@ -5,11 +5,11 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008605057) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-2. 🎉 Merged PR [#849](https://github.com/openmod/openmod/pull/849) in [openmod/openmod](https://github.com/openmod/openmod)
-3. 🎉 Merged PR [#848](https://github.com/openmod/openmod/pull/848) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🗣 Commented on [#848](https://github.com/openmod/openmod/pull/848#issuecomment-3004670788) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-2995853598) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+1. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008784947) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+2. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008605057) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+3. 🎉 Merged PR [#849](https://github.com/openmod/openmod/pull/849) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🎉 Merged PR [#848](https://github.com/openmod/openmod/pull/848) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🗣 Commented on [#848](https://github.com/openmod/openmod/pull/848#issuecomment-3004670788) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
