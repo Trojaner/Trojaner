@@ -5,11 +5,11 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008784947) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-2. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008605057) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-3. 🎉 Merged PR [#849](https://github.com/openmod/openmod/pull/849) in [openmod/openmod](https://github.com/openmod/openmod)
-4. 🎉 Merged PR [#848](https://github.com/openmod/openmod/pull/848) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🗣 Commented on [#848](https://github.com/openmod/openmod/pull/848#issuecomment-3004670788) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🚀 Published release [1.1.0](https://github.com/byo-software/steam-openid-connect-provider/releases/tag/1.1.0) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+2. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008784947) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+3. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008605057) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+4. 🎉 Merged PR [#849](https://github.com/openmod/openmod/pull/849) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🎉 Merged PR [#848](https://github.com/openmod/openmod/pull/848) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
