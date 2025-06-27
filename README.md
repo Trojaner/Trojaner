@@ -5,11 +5,11 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.0](https://github.com/byo-software/steam-openid-connect-provider/releases/tag/1.1.0) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
-2. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008784947) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-3. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008605057) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
-4. 🎉 Merged PR [#849](https://github.com/openmod/openmod/pull/849) in [openmod/openmod](https://github.com/openmod/openmod)
-5. 🎉 Merged PR [#848](https://github.com/openmod/openmod/pull/848) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🗣 Commented on [#22](https://github.com/byo-software/steam-openid-connect-provider/issues/22#issuecomment-3010406772) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+2. 🔒 Closed issue [#22](https://github.com/byo-software/steam-openid-connect-provider/issues/22) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+3. 🚀 Published release [1.1.0](https://github.com/byo-software/steam-openid-connect-provider/releases/tag/1.1.0) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
+4. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008784947) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+5. 🗣 Commented on [#3992](https://github.com/vladmandic/sdnext/pull/3992#issuecomment-3008605057) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
