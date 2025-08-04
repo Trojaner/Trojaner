@@ -5,7 +5,7 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4014](https://github.com/vladmandic/sdnext/pull/4014) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
+1. 🗣 Commented on [#4783](https://github.com/dotnet/EntityFramework.Docs/issues/4783#issuecomment-3150707834) in [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs)
 2. 💪 Opened PR [#4013](https://github.com/vladmandic/sdnext/pull/4013) in [vladmandic/sdnext](https://github.com/vladmandic/sdnext)
 3. 🗣 Commented on [#25](https://github.com/byo-software/steam-openid-connect-provider/issues/25#issuecomment-3029244656) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
 4. 🗣 Commented on [#25](https://github.com/byo-software/steam-openid-connect-provider/issues/25#issuecomment-3029216231) in [byo-software/steam-openid-connect-provider](https://github.com/byo-software/steam-openid-connect-provider)
