@@ -5,11 +5,11 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#851](https://github.com/openmod/openmod/pull/851#issuecomment-3201773267) in [openmod/openmod](https://github.com/openmod/openmod)
-2. 🗣 Commented on [#220](https://github.com/crystian/ComfyUI-Crystools/issues/220#issuecomment-3197126432) in [crystian/ComfyUI-Crystools](https://github.com/crystian/ComfyUI-Crystools)
-3. 🗣 Commented on [#220](https://github.com/crystian/comfyui-crystools/issues/220#issuecomment-3193863573) in [crystian/comfyui-crystools](https://github.com/crystian/comfyui-crystools)
-4. 💪 Opened PR [#228](https://github.com/crystian/comfyui-crystools/pull/228) in [crystian/comfyui-crystools](https://github.com/crystian/comfyui-crystools)
-5. 🗣 Commented on [#852](https://github.com/openmod/openmod/pull/852#issuecomment-3173060625) in [openmod/openmod](https://github.com/openmod/openmod)
+1. 🗣 Commented on [#854](https://github.com/openmod/openmod/pull/854#issuecomment-3210533230) in [openmod/openmod](https://github.com/openmod/openmod)
+2. 🗣 Commented on [#854](https://github.com/openmod/openmod/pull/854#issuecomment-3210517585) in [openmod/openmod](https://github.com/openmod/openmod)
+3. ❌ Closed PR [#851](https://github.com/openmod/openmod/pull/851) in [openmod/openmod](https://github.com/openmod/openmod)
+4. 🗣 Commented on [#851](https://github.com/openmod/openmod/pull/851#issuecomment-3210503657) in [openmod/openmod](https://github.com/openmod/openmod)
+5. 🗣 Commented on [#853](https://github.com/openmod/openmod/pull/853#issuecomment-3210495879) in [openmod/openmod](https://github.com/openmod/openmod)
 <!--END_SECTION:activity-->
 
 ## Website / Blog
