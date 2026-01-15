@@ -5,8 +5,8 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/Cysharp/Ulid/issues/103#issuecomment-3702231937) in [Cysharp/Ulid](https://github.com/Cysharp/Ulid)
-2. 🗣 Commented on [#12541](https://github.com/microsoft/WSL/issues/12541#issuecomment-3659328247) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. 🗣 Commented on [#24](https://github.com/microsoft/WindowsAdvancedSettings/issues/24#issuecomment-3756741392) in [microsoft/WindowsAdvancedSettings](https://github.com/microsoft/WindowsAdvancedSettings)
+2. 🗣 Commented on [#103](https://github.com/Cysharp/Ulid/issues/103#issuecomment-3702231937) in [Cysharp/Ulid](https://github.com/Cysharp/Ulid)
 3. 💪 Opened PR [#147](https://github.com/openobserve/openobserve-helm-chart/pull/147) in [openobserve/openobserve-helm-chart](https://github.com/openobserve/openobserve-helm-chart)
 4. 🗣 Commented on [#854](https://github.com/openmod/openmod/pull/854#issuecomment-3210533230) in [openmod/openmod](https://github.com/openmod/openmod)
 5. 🗣 Commented on [#854](https://github.com/openmod/openmod/pull/854#issuecomment-3210517585) in [openmod/openmod](https://github.com/openmod/openmod)
