@@ -5,7 +5,7 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9887](https://github.com/Facepunch/sbox-public/issues/9887) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
+1. 🗣 Commented on [#4](https://github.com/JohnRiceML/clawport-ui/issues/4#issuecomment-4019742763) in [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui)
 2. ❗ Opened issue [#9881](https://github.com/Facepunch/sbox-public/issues/9881) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
 3. ❗ Opened issue [#9762](https://github.com/Facepunch/sbox-public/issues/9762) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
 4. ❗ Opened issue [#9761](https://github.com/Facepunch/sbox-public/issues/9761) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
