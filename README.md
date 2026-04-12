@@ -5,8 +5,8 @@ I also occasionally do DevOps stuff and contribute to various generative AI proj
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/JohnRiceML/clawport-ui/issues/4#issuecomment-4019742763) in [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui)
-2. ❗ Opened issue [#9881](https://github.com/Facepunch/sbox-public/issues/9881) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
+1. ❌ Closed PR [#65337](https://github.com/openclaw/openclaw/pull/65337) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+2. 💪 Opened PR [#65337](https://github.com/openclaw/openclaw/pull/65337) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 3. ❗ Opened issue [#9762](https://github.com/Facepunch/sbox-public/issues/9762) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
 4. ❗ Opened issue [#9761](https://github.com/Facepunch/sbox-public/issues/9761) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
 5. ❗ Opened issue [#9746](https://github.com/Facepunch/sbox-public/issues/9746) in [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public)
